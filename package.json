@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-bg-footer",
+  "version": "0.1.0",
+  "description": "Este modulo permite general un pie de pagina dinamico para aplicaciones JS con un año y un nombre actualizado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borjadev10/devcamp-bg-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "borjadevcamp <borjagonzalvo@hotmail.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Borjadev10/devcamp-bg-footer/issues"
+  },
+  "homepage": "https://github.com/Borjadev10/devcamp-bg-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
